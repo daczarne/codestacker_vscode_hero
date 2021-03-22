@@ -1,2 +1,1 @@
-# preciosuy
-Scraping precios uy
+# Codestaker's VS Code course
