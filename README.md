@@ -1,4 +1,4 @@
-# Codestaker's VS Code course
+# codeSTACKr's VS Code course
 
 ![archived](https://img.shields.io/badge/lifecycle-archived-red.svg)
 
